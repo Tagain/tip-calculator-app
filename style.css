@@ -22,6 +22,9 @@
 body {
     font-family: 'Space Mono', monospace;
     background-color: var(--light-grayish-cyan);
+    display: grid;
+    place-items: center;
+    height: 100vh;
 }
 
 /* Layout */
